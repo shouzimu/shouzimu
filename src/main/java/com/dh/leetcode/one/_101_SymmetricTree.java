@@ -11,6 +11,8 @@ import org.junit.Test;
  * 101. Symmetric Tree
  *
  * https://leetcode.com/problems/symmetric-tree/
+ *
+ * 判断一棵树是否对称
  */
 public class _101_SymmetricTree {
 

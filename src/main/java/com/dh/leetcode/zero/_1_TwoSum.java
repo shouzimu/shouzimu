@@ -2,6 +2,9 @@ package com.dh.leetcode.zero;
 
 import org.junit.Test;
 
+/**
+ * https://leetcode.com/problems/two-sum/
+ */
 public class _1_TwoSum {
     public int[] twoSum(int[] nums, int target) {
         if (nums.length < 2) {

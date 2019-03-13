@@ -1,7 +1,7 @@
 # leetcode
 
 | 序号 | 标题 | 描述  | 语言 | 解法 | 难度 |
-|---| -------- | ----- |  --- | ------------- |------------|
+|-----| -------- | --------- |  ------ | ------------- |------------|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) |-| [java](src/main/java/com/dh/leetcode/zero/_1_TwoSum.java)|数组|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) |-| [java](src/main/java/com/dh/leetcode/zero/_2_AddTwoNumbers.java)|链表|	Medium	|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |-| [java](src/main/java/com/dh/leetcode/zero/_3_LongestSubstring.java)|数组|Medium|

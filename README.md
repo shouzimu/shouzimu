@@ -28,18 +28,21 @@
 
 #### 100~199
 
-| 序号 | 标题 | 描述  | 语言 | 解法 | 难度 |
-|-----| -------- | --------- |  ------ | ------------- |------------|
-|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) |-| [java](src/main/java/com/dh/leetcode/one/_101_SymmetricTree.java)| 数/递归 |		Easy	|
-|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/symmetric-tree/) |-| [java](src/main/java/com/dh/leetcode/one/_102_BinaryTreeLevelOrderTraversal.java)| 队列广度优先 |	Medium |
-|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) |-| [java](src/main/java/com/dh/leetcode/one/_104_MaximumDepthofBinaryTree.java)| 队列深度优先 |	Easy |
-|107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii) |-| [java](src/main/java/com/dh/leetcode/one/_107_BinaryTreeLevelOrderTraversalII.java)| 队列广度优先 |	Easy |
-|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) |-| [java](src/main/java/com/dh/leetcode/one/_121_BestTimetoBuyandSellStock.java)| 迭代 |	Easy |
-|121|[Single Number](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) |-| [java](src/main/java/com/dh/leetcode/one/_121_BestTimetoBuyandSellStock.java)| 迭代 |	Easy |
-|141|[LinkedListCycle](https://leetcode.com/problems/linked-list-cycle)|判断是否循环链表|[java](src/main/java/com/dh/leetcode/one/_141_Linked_List_Cycle.java)|快慢指针|Easy	|
-|142|[LinkedListCycleII](https://leetcode.com/problems/linked-list-cycle-ii)|循环的第一个节点|[java](src/main/java/com/dh/leetcode/one/_142_Linked_List_Cycle_ii.java)|Set|Medium|
-|169|[MajorityElement](https://leetcode.com/problems/majority-element)|求众数|[java](src/main/java/com/dh/leetcode/one/_169_MajorityElement.java)|散列表|Easy|	
-|191|[Numberof1Bits](https://leetcode.com/problems/number-of-1-bits)|二进制1的个数|[java](src/main/java/com/dh/leetcode/one/_191_Numberof1Bits.java)|迭代x&x-1去除末尾0|Easy	|
+| 状态 | 序号 | 标题 | 描述  | 语言 | 解法 | 难度 |
+|-----|-----| -------- | --------- |  ------ | ------------- |------------|
+| - [x] |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) |-| [java](src/main/java/com/dh/leetcode/one/_101_SymmetricTree.java)| 数/递归 |		Easy	|
+| - [x] |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/symmetric-tree/) |-| [java](src/main/java/com/dh/leetcode/one/_102_BinaryTreeLevelOrderTraversal.java)| 队列广度优先 |	Medium |
+| - [x] |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) |-| [java](src/main/java/com/dh/leetcode/one/_104_MaximumDepthofBinaryTree.java)| 队列深度优先 |	Easy |
+| - [x] |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii) |-| [java](src/main/java/com/dh/leetcode/one/_107_BinaryTreeLevelOrderTraversalII.java)| 队列广度优先 |	Easy |
+| - [x] |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) |股票最佳买卖时间1| [java](src/main/java/com/dh/leetcode/one/_121_BestTimetoBuyandSellStock.java)| 迭代 |	Easy |
+| - [] |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) |股票最佳买卖时间2| [java](src/main/java/com/dh/leetcode/one/)| 动态规划 |	Easy |
+| - [] |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii) |股票最佳买卖时间3| [java](src/main/java/com/dh/leetcode/one/)| 动态规划 |	Hard |
+| - [x] |136|[Single Number](https://leetcode.com/problems/single-number/) |只出现一次的数字| [java](src/main/java/com/dh/leetcode/one/_136_SingleNumber.java)| 散列表 |	Easy |
+| - [x] |141|[LinkedListCycle](https://leetcode.com/problems/linked-list-cycle)|判断是否循环链表|[java](src/main/java/com/dh/leetcode/one/_141_Linked_List_Cycle.java)|快慢指针|Easy	|
+| - [x] |142|[LinkedListCycleII](https://leetcode.com/problems/linked-list-cycle-ii)|循环的第一个节点|[java](src/main/java/com/dh/leetcode/one/_142_Linked_List_Cycle_ii.java)|Set|Medium|
+| - [x] |169|[MajorityElement](https://leetcode.com/problems/majority-element)|求众数|[java](src/main/java/com/dh/leetcode/one/_169_MajorityElement.java)|散列表|Easy|	
+| - [ ] |169|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv)|股票最佳买卖时间4|[java](src/main/java/com/dh/leetcode/one/)|散列表|Easy|	
+| - [x]|191|[Numberof1Bits](https://leetcode.com/problems/number-of-1-bits)|二进制1的个数|[java](src/main/java/com/dh/leetcode/one/_191_Numberof1Bits.java)|迭代x&x-1去除末尾0|Easy	|
 
 
 
@@ -72,3 +75,4 @@
 | 序号 | 标题 | 描述  | 语言 | 解法 | 难度 |
 |-----| -------- | --------- |  ------ | ------------- |------------|
 |509|[FibonacciNumber](https://leetcode.com/problems/fibonacci-number)|-|[java](src/main/java/com/dh/leetcode/five/_509_FibonacciNumber.java)|数组|Easy
+|714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee)|股票最佳买卖时间含手续费|[java](src/main/java/com/dh/leetcode/five/)|动态规划|Medium

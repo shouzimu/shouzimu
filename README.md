@@ -55,10 +55,12 @@
 | √ |202|[HappyNumber](https://leetcode.com/problems/happy-number)|快乐数字|[java](src/main/java/com/dh/leetcode/two/_202_HappyNumber.java)|Set|Easy|
 | √ |206|[ReverseLinkedList](https://leetcode.com/problems/reverse-linked-list)|反转链表|[java](src/main/java/com/dh/leetcode/two/_206_ReverseLinkedList.java)|链表|Easy	|
 | √ |208|[ImplementTrie(PrefixTree)](https://leetcode.com/problems/implement-trie-prefix-tree)|实现字典数|[java](src/main/java/com/dh/leetcode/two/_208_ImplementTrie.java)|字典树|Medium|
+| √ |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|数组是否包含重复项|[java](src/main/java/com/dh/leetcode/two/_217_ContainsDuplicate.java)|字典树|Easy|
 | √ |225|[ImplementStackusingQueues](https://leetcode.com/problems/implement-stack-using-queues)|用队列实现栈|[java](src/main/java/com/dh/leetcode/two/_225_ImplementStackusingQueues.java)|两个队列|Easy	|
 | √ |226|[InvertBinaryTree](https://leetcode.com/problems/invert-binary-tree)|反转二叉树|[java](src/main/java/com/dh/leetcode/two/_226_InvertBinaryTree.java)|递归|Easy	|
 | √ |231|[PowerofTwo](https://leetcode.com/problems/power-of-two)|2的次方|[java](src/main/java/com/dh/leetcode/two/_231_PowerOfTwo.java)|x&x-1去除末尾0|Easy	|
 | √ |232|[ImplementQueueusingStacks](https://leetcode.com/problems/implement-queue-using-stacks)|用栈实现队列|[java](src/main/java/com/dh/leetcode/two/_232_ImplementQueueusingStacks.java)|两个栈|Easy	|
+| √ |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|删除链接列表中的节点|[java](src/main/java/com/dh/leetcode/two/_237_DeleteNodeinaLinkedList.java)|链表|Easy	|
 | √ |239|[SlidingWindowMaximum](https://leetcode.com/problems/sliding-window-maximum)|滑动窗口的最大值|[java](src/main/java/com/dh/leetcode/two/_239_SlidingWindowMaximum.java)|双端队列| Hard	|
 | √ |242|[ValidAnagram](https://leetcode.com/problems/valid-anagram)|-|[java](src/main/java/com/dh/leetcode/two)|-|Easy	|
 | √ |260|[SingleNumberIII](https://leetcode.com/problems/single-number-iii)|-|[java](src/main/java/com/dh/leetcode/two/_260_SingleNumberIII.java)| 散列表|Medium|
@@ -69,6 +71,7 @@
 |--------|--------|--------|--------|----------|---------|--------|
 | √ |344|[ReverseString](https://leetcode.com/problems/reverse-string)|-|[java](src/main/java/com/dh/leetcode/three/_344_ReverseString.java)|数组		|Easy	|
 | √ |367|[ValidPerfectSquare](https://leetcode.com/problems/valid-perfect-square)|-|[java](src/main/java/com/dh/leetcode/three/_367_ValidPerfectSquare.java)|二分法 | Easy|
+| - |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|不使用运算符加两个数|[java](src/main/java/com/dh/leetcode/three/_371_SumofTwoIntegers.java)|位运算 | Easy|
 
 #### 400~499
 #### 500~599

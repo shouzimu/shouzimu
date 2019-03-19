@@ -64,6 +64,7 @@
 | √ |239|[SlidingWindowMaximum](https://leetcode.com/problems/sliding-window-maximum)|滑动窗口的最大值|[java](src/main/java/com/dh/leetcode/two/_239_SlidingWindowMaximum.java)|双端队列| Hard	|
 | √ |242|[ValidAnagram](https://leetcode.com/problems/valid-anagram)|-|[java](src/main/java/com/dh/leetcode/two)|-|Easy	|
 | √ |260|[SingleNumberIII](https://leetcode.com/problems/single-number-iii)|-|[java](src/main/java/com/dh/leetcode/two/_260_SingleNumberIII.java)| 散列表|Medium|
+| √ |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|0移动到末尾|[java](src/main/java/com/dh/leetcode/two/_283_MoveZeroes.java)| 数组/快慢下标|Easy|
 
 
 #### 300~399

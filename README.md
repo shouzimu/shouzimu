@@ -42,6 +42,7 @@
 | √ |142|[LinkedListCycleII](https://leetcode.com/problems/linked-list-cycle-ii)|循环的第一个节点|[java](src/main/java/com/dh/leetcode/one/_142_Linked_List_Cycle_ii.java)|Set|Medium|
 | √ |169|[MajorityElement](https://leetcode.com/problems/majority-element)|求众数|[java](src/main/java/com/dh/leetcode/one/_169_MajorityElement.java)|散列表|Easy|	
 | - |169|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv)|股票最佳买卖时间4|[java](src/main/java/com/dh/leetcode/one/)|散列表|Easy|	
+| - |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|26进制|[java](src/main/java/com/dh/leetcode/one/_171_ExcelSheetColumnNumber.java)|数组|Easy|	
 | √ |191|[Numberof1Bits](https://leetcode.com/problems/number-of-1-bits)|二进制1的个数|[java](src/main/java/com/dh/leetcode/one/_191_Numberof1Bits.java)|迭代x&x-1去除末尾0|Easy	|
 
 

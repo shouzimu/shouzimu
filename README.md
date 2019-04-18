@@ -22,6 +22,8 @@
 | √ |67|[Add Binary](https://leetcode.com/problems/add-binary) |-| [java](src/main/java/com/dh/leetcode/zero/_67_AddBinary.java)| 二进制 |	Easy	|
 | √ |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx) |-| [java](src/main/java/com/dh/leetcode/zero/_69_SqrtX.java)| 二分法 |	Easy	|
 | √ |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs) |-| [java](src/main/java/com/dh/leetcode/zero/_70_ClimbingStairs.java)| 递归/斐波那契 |	Easy	|
+| √ |75|[Sort Colors](https://leetcode.com/problems/sort-colors/) |红白蓝排序| [java](src/main/java/com/dh/leetcode/zero/_75_SortColors.java)| 排序/双指针 |	Medium	|
+| √ |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) |二叉树中序非递归输出| [java](src/main/java/com/dh/leetcode/zero/_94_BinaryTreeInorderTraversal.java)| 栈/迭代 |	Medium	|
 | √ |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) |-| [java](src/main/java/com/dh/leetcode/zero/_98_ValidateBinarySearchTree.java)| 二叉树遍历 | Medium	|
 
 
@@ -34,6 +36,7 @@
 | √ |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/symmetric-tree/) |-| [java](src/main/java/com/dh/leetcode/one/_102_BinaryTreeLevelOrderTraversal.java)| 队列广度优先 |	Medium |
 | √ |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) |-| [java](src/main/java/com/dh/leetcode/one/_104_MaximumDepthofBinaryTree.java)| 队列深度优先 |	Easy |
 | √ |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii) |-| [java](src/main/java/com/dh/leetcode/one/_107_BinaryTreeLevelOrderTraversalII.java)| 队列广度优先 |	Easy |
+| - |120|[Triangle](https://leetcode.com/problems/triangle) |三角形最小路径和| [java](src/main/java/com/dh/leetcode/one/_120_Triangle.java)| 动态规划 |	Medium |
 | √ |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) |股票最佳买卖时间1| [java](src/main/java/com/dh/leetcode/one/_121_BestTimetoBuyandSellStock.java)| 迭代 |	Easy |
 | - |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) |股票最佳买卖时间2| [java](src/main/java/com/dh/leetcode/one/)| 动态规划 |	Easy |
 | - |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii) |股票最佳买卖时间3| [java](src/main/java/com/dh/leetcode/one/)| 动态规划 |	Hard |

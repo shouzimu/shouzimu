@@ -15,7 +15,9 @@
 | √ |20|[Valid Parentheses](https://leetcode.com/problems/remove-nth-node-from-end-of-list) |-| [java](src/main/java/com/dh/leetcode/zero/_20_ValidParentheses.java)|栈/迭代|	Easy	|
 | √ |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) |-| [java](src/main/java/com/dh/leetcode/zero/_21_MergeTwoSortedLists.java)| 链表 |	Easy	|
 | √ |24|[Swap Nodes in Pairs](https://leetcode.com/problems/remove-element) |-| [java](src/main/java/com/dh/leetcode/zero/_24_SwapNodesInPairs.java)| 链表 |	Medium	|
-| √ |27|[Remove Element](https://leetcode.com/problems/swap-nodes-in-pairs) |-| [java](src/main/java/com/dh/leetcode/zero/_27_RemoveElement.java)| 数组/快慢下标 |	Easy	|
+| √ |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |移除有序数组中的重复元素| [java](src/main/java/com/dh/leetcode/zero/_26_RemoveDuplicatesFromSortedArray.java)| 数组/双指针 |	Easy	|
+| √ |27|[Remove Element](https://leetcode.com/problems/swap-nodes-in-pairs) |-| [java](src/main/java/com/dh/leetcode/zero/_27_RemoveElement.java)| 数组/双指针 |	Easy	|
+| - |34|[Find First and Last Position of Element in Sorted Array]( <https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/>) |查找有序数组中第一和最后一个位置| [java](src/main/java/com/dh/leetcode/zero/_34_FindFirstandLastPositionofElementinSortedArray.java)| 二分法 |	Medium	|
 | √ |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku) |-| [java](src/main/java/com/dh/leetcode/zero/_36_ValidSudoku.java)| 循环/剪枝 |	Medium	|
 | √ |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams) |-| [java](src/main/java/com/dh/leetcode/zero/_49_GroupAnagrams.java)| 散列表 |	Medium	|
 | √ |66|[Plus One](https://leetcode.com/problems/plus-one) |-| [java](src/main/java/com/dh/leetcode/zero/_66_PlusOne.java)| 大数 |	Easy	|
@@ -41,11 +43,11 @@
 | - |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) |股票最佳买卖时间2| [java](src/main/java/com/dh/leetcode/one/)| 动态规划 |	Easy |
 | - |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii) |股票最佳买卖时间3| [java](src/main/java/com/dh/leetcode/one/)| 动态规划 |	Hard |
 | √ |136|[Single Number](https://leetcode.com/problems/single-number/) |只出现一次的数字| [java](src/main/java/com/dh/leetcode/one/_136_SingleNumber.java)| 散列表 |	Easy |
-| √ |141|[LinkedListCycle](https://leetcode.com/problems/linked-list-cycle)|判断是否循环链表|[java](src/main/java/com/dh/leetcode/one/_141_Linked_List_Cycle.java)|快慢指针|Easy	|
+| √ |141|[LinkedListCycle](https://leetcode.com/problems/linked-list-cycle)|判断是否循环链表|[java](src/main/java/com/dh/leetcode/one/_141_Linked_List_Cycle.java)|双指针/快慢指针|Easy	|
 | √ |142|[LinkedListCycleII](https://leetcode.com/problems/linked-list-cycle-ii)|循环的第一个节点|[java](src/main/java/com/dh/leetcode/one/_142_Linked_List_Cycle_ii.java)|Set|Medium|
-| √ |169|[MajorityElement](https://leetcode.com/problems/majority-element)|求众数|[java](src/main/java/com/dh/leetcode/one/_169_MajorityElement.java)|散列表|Easy|	
-| - |169|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv)|股票最佳买卖时间4|[java](src/main/java/com/dh/leetcode/one/)|散列表|Easy|	
-| - |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|26进制|[java](src/main/java/com/dh/leetcode/one/_171_ExcelSheetColumnNumber.java)|数组|Easy|	
+| √ |169|[MajorityElement](https://leetcode.com/problems/majority-element)|求众数|[java](src/main/java/com/dh/leetcode/one/_169_MajorityElement.java)|散列表|Easy|
+| - |169|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv)|股票最佳买卖时间4|[java](src/main/java/com/dh/leetcode/one/)|散列表|Easy|
+| - |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|26进制|[java](src/main/java/com/dh/leetcode/one/_171_ExcelSheetColumnNumber.java)|数组|Easy|
 | √ |191|[Numberof1Bits](https://leetcode.com/problems/number-of-1-bits)|二进制1的个数|[java](src/main/java/com/dh/leetcode/one/_191_Numberof1Bits.java)|迭代x&x-1去除末尾0|Easy	|
 
 
@@ -68,7 +70,7 @@
 | √ |239|[SlidingWindowMaximum](https://leetcode.com/problems/sliding-window-maximum)|滑动窗口的最大值|[java](src/main/java/com/dh/leetcode/two/_239_SlidingWindowMaximum.java)|双端队列| Hard	|
 | √ |242|[ValidAnagram](https://leetcode.com/problems/valid-anagram)|-|[java](src/main/java/com/dh/leetcode/two)|-|Easy	|
 | √ |260|[SingleNumberIII](https://leetcode.com/problems/single-number-iii)|-|[java](src/main/java/com/dh/leetcode/two/_260_SingleNumberIII.java)| 散列表|Medium|
-| √ |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|0移动到末尾|[java](src/main/java/com/dh/leetcode/two/_283_MoveZeroes.java)| 数组/快慢下标|Easy|
+| √ |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|0移动到末尾|[java](src/main/java/com/dh/leetcode/two/_283_MoveZeroes.java)| 数组/双指针 |Easy|
 
 
 #### 300~399
@@ -82,5 +84,5 @@
 #### 500~599
 |   状态 |   序号  |   标题  |   描述 |    语言   |    解法 |   难度  |
 |--------|--------|--------|--------|----------|---------|--------|
-| √ |509|[FibonacciNumber](https://leetcode.com/problems/fibonacci-number)|-|[java](src/main/java/com/dh/leetcode/five/_509_FibonacciNumber.java)|数组|Easy
-| - |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee)|股票最佳买卖时间含手续费|[java](src/main/java/com/dh/leetcode/five/)|动态规划|Medium
+| √ |509|[FibonacciNumber](https://leetcode.com/problems/fibonacci-number)|斐波那契数列|[java](src/main/java/com/dh/leetcode/five/_509_FibonacciNumber.java)| 数组 |Easy|
+| - |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee)| 股票最佳买卖时间含手续费 |[java](src/main/java/com/dh/leetcode/five/)|动态规划|Medium|

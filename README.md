@@ -20,11 +20,13 @@
 | - |34|[Find First and Last Position of Element in Sorted Array]( <https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/>) |查找有序数组中第一和最后一个位置| [java](src/main/java/com/dh/leetcode/zero/_34_FindFirstandLastPositionofElementinSortedArray.java)| 二分法 |	Medium	|
 | √ |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku) |-| [java](src/main/java/com/dh/leetcode/zero/_36_ValidSudoku.java)| 循环/剪枝 |	Medium	|
 | √ |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams) |-| [java](src/main/java/com/dh/leetcode/zero/_49_GroupAnagrams.java)| 散列表 |	Medium	|
+| √ |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |连续子数组的最大和| [java](src/main/java/com/dh/leetcode/zero/_53_MaximumSubarray.java)| 动态规划 |	Easy	|
 | √ |66|[Plus One](https://leetcode.com/problems/plus-one) |-| [java](src/main/java/com/dh/leetcode/zero/_66_PlusOne.java)| 大数 |	Easy	|
 | √ |67|[Add Binary](https://leetcode.com/problems/add-binary) |-| [java](src/main/java/com/dh/leetcode/zero/_67_AddBinary.java)| 二进制 |	Easy	|
 | √ |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx) |-| [java](src/main/java/com/dh/leetcode/zero/_69_SqrtX.java)| 二分法 |	Easy	|
 | √ |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs) |-| [java](src/main/java/com/dh/leetcode/zero/_70_ClimbingStairs.java)| 递归/斐波那契 |	Easy	|
 | √ |75|[Sort Colors](https://leetcode.com/problems/sort-colors/) |红白蓝排序| [java](src/main/java/com/dh/leetcode/zero/_75_SortColors.java)| 排序/双指针 |	Medium	|
+| √ |78|[Subsets](https://leetcode.com/problems/subsets/) |数组的子集合| [java](src/main/java/com/dh/leetcode/zero/_78_Subsets.java)| 位运算 |	Medium	|
 | √ |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) |二叉树中序非递归输出| [java](src/main/java/com/dh/leetcode/zero/_94_BinaryTreeInorderTraversal.java)| 栈/迭代 |	Medium	|
 | √ |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) |-| [java](src/main/java/com/dh/leetcode/zero/_98_ValidateBinarySearchTree.java)| 二叉树遍历 | Medium	|
 

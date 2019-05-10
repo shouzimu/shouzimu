@@ -4,31 +4,33 @@
 
 |   状态 |   序号  |   标题  |   描述 |    语言   |    解法 |   难度  |
 |--------|--------|--------|--------|----------|---------|--------|
-| √ |1|[Two Sum](https://leetcode.com/problems/two-sum/) |-| [java](src/main/java/com/dh/leetcode/zero/_1_TwoSum.java)|数组|Easy|
-| √ |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) |-| [java](src/main/java/com/dh/leetcode/zero/_2_AddTwoNumbers.java)|链表|	Medium	|
-| √ |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |-| [java](src/main/java/com/dh/leetcode/zero/_3_LongestSubstring.java)|数组|Medium|
-| √ |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) |-| [java](src/main/java/com/dh/leetcode/zero/_6_ZigZagConversion.java)|二维数组|	Medium	|
-| √ |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman) |-| [java](src/main/java/com/dh/leetcode/zero/_12_IntegerToRoman.java)|字符串|	Medium	|
-| √ |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer) |-| [java](src/main/java/com/dh/leetcode/zero/_13_RomanToInteger.java)|散列表|	Easy	|
-| √ |15|[3Sum](https://leetcode.com/problems/3sum) |-| [java](src/main/java/com/dh/leetcode/zero/_15_3Sum.java)|散列表|	Medium	|
-| √ |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) |-| [java](src/main/java/com/dh/leetcode/zero/_19_RemoveNthNodeFromEndOfList.java)|链表|	Medium	|
-| √ |20|[Valid Parentheses](https://leetcode.com/problems/remove-nth-node-from-end-of-list) |-| [java](src/main/java/com/dh/leetcode/zero/_20_ValidParentheses.java)|栈/迭代|	Easy	|
-| √ |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) |-| [java](src/main/java/com/dh/leetcode/zero/_21_MergeTwoSortedLists.java)| 链表 |	Easy	|
-| √ |24|[Swap Nodes in Pairs](https://leetcode.com/problems/remove-element) |-| [java](src/main/java/com/dh/leetcode/zero/_24_SwapNodesInPairs.java)| 链表 |	Medium	|
+| √ |1|[Two Sum](https://leetcode.com/problems/two-sum/) |两数之和 | [java](src/main/java/com/dh/leetcode/zero/_1_TwoSum.java)|数组|Easy|
+| √ |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) |两数相加 | [java](src/main/java/com/dh/leetcode/zero/_2_AddTwoNumbers.java)|链表|	Medium	|
+| √ |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |无重复字符的最长子串| [java](src/main/java/com/dh/leetcode/zero/_3_LongestSubstring.java)|数组|Medium|
+| - |5|[Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/) |最长回文子串| [java](src/main/java/com/dh/leetcode/zero/_5_LongestPalindromicSubstring.java)|数组|Medium|
+| √ |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) |Z 字形变换| [java](src/main/java/com/dh/leetcode/zero/_6_ZigZagConversion.java)|二维数组|	Medium	|
+| √ |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman) |整数反转| [java](src/main/java/com/dh/leetcode/zero/_12_IntegerToRoman.java)|字符串|	Medium	|
+| √ |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer) |罗马数字转整数| [java](src/main/java/com/dh/leetcode/zero/_13_RomanToInteger.java)|散列表|	Easy	|
+| √ |15|[3Sum](https://leetcode.com/problems/3sum) | 三数之和 | [java](src/main/java/com/dh/leetcode/zero/_15_3Sum.java)|散列表|	Medium	|
+| √ |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) |删除链表的倒数第N个节点 | [java](src/main/java/com/dh/leetcode/zero/_19_RemoveNthNodeFromEndOfList.java)|链表|	Medium	|
+| √ |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |有效的括号| [java](src/main/java/com/dh/leetcode/zero/_20_ValidParentheses.java)|栈/迭代|	Easy	|
+| √ |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) |合并两个有序链表| [java](src/main/java/com/dh/leetcode/zero/_21_MergeTwoSortedLists.java)| 链表 |	Easy	|
+| √ |24|[Swap Nodes in Pairs](https://leetcode.com/problems/remove-element) | 两两交换链表中的节点 | [java](src/main/java/com/dh/leetcode/zero/_24_SwapNodesInPairs.java)| 链表 |	Medium	|
 | √ |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |移除有序数组中的重复元素| [java](src/main/java/com/dh/leetcode/zero/_26_RemoveDuplicatesFromSortedArray.java)| 数组/双指针 |	Easy	|
-| √ |27|[Remove Element](https://leetcode.com/problems/swap-nodes-in-pairs) |-| [java](src/main/java/com/dh/leetcode/zero/_27_RemoveElement.java)| 数组/双指针 |	Easy	|
+| √ |27|[Remove Element](https://leetcode-cn.com/problems/remove-element/) |删除数组中的元素| [java](src/main/java/com/dh/leetcode/zero/_27_RemoveElement.java)| 数组/双指针 |	Easy	|
 | - |34|[Find First and Last Position of Element in Sorted Array]( <https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/>) |查找有序数组中第一和最后一个位置| [java](src/main/java/com/dh/leetcode/zero/_34_FindFirstandLastPositionofElementinSortedArray.java)| 二分法 |	Medium	|
-| √ |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku) |-| [java](src/main/java/com/dh/leetcode/zero/_36_ValidSudoku.java)| 循环/剪枝 |	Medium	|
-| √ |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams) |-| [java](src/main/java/com/dh/leetcode/zero/_49_GroupAnagrams.java)| 散列表 |	Medium	|
+| √ |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku) |有效的数独| [java](src/main/java/com/dh/leetcode/zero/_36_ValidSudoku.java)| 循环/剪枝 |	Medium	|
+| √ |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams) | 字母异位词分组 | [java](src/main/java/com/dh/leetcode/zero/_49_GroupAnagrams.java)| 散列表 |	Medium	|
 | √ |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |连续子数组的最大和| [java](src/main/java/com/dh/leetcode/zero/_53_MaximumSubarray.java)| 动态规划 |	Easy	|
-| √ |66|[Plus One](https://leetcode.com/problems/plus-one) |-| [java](src/main/java/com/dh/leetcode/zero/_66_PlusOne.java)| 大数 |	Easy	|
-| √ |67|[Add Binary](https://leetcode.com/problems/add-binary) |-| [java](src/main/java/com/dh/leetcode/zero/_67_AddBinary.java)| 二进制 |	Easy	|
-| √ |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx) |-| [java](src/main/java/com/dh/leetcode/zero/_69_SqrtX.java)| 二分法 |	Easy	|
-| √ |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs) |-| [java](src/main/java/com/dh/leetcode/zero/_70_ClimbingStairs.java)| 递归/斐波那契 |	Easy	|
+| √ |66|[Plus One](https://leetcode.com/problems/plus-one) |加1| [java](src/main/java/com/dh/leetcode/zero/_66_PlusOne.java)| 大数 |	Easy	|
+| √ |67|[Add Binary](https://leetcode.com/problems/add-binary) | 二进制求和| [java](src/main/java/com/dh/leetcode/zero/_67_AddBinary.java)| 二进制 |	Easy	|
+| √ |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx) |x的平方根| [java](src/main/java/com/dh/leetcode/zero/_69_SqrtX.java)| 二分法 |	Easy	|
+| √ |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs) |爬楼梯| [java](src/main/java/com/dh/leetcode/zero/_70_ClimbingStairs.java)| 递归/斐波那契 |	Easy	|
 | √ |75|[Sort Colors](https://leetcode.com/problems/sort-colors/) |红白蓝排序| [java](src/main/java/com/dh/leetcode/zero/_75_SortColors.java)| 排序/双指针 |	Medium	|
 | √ |78|[Subsets](https://leetcode.com/problems/subsets/) |数组的子集合| [java](src/main/java/com/dh/leetcode/zero/_78_Subsets.java)| 位运算 |	Medium	|
+| - |88|[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/) |合并两个有序数组| [java](src/main/java/com/dh/leetcode/zero/_78_Subsets.java)| 位运算 |	Medium	|
 | √ |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) |二叉树中序非递归输出| [java](src/main/java/com/dh/leetcode/zero/_94_BinaryTreeInorderTraversal.java)| 栈/迭代 |	Medium	|
-| √ |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) |-| [java](src/main/java/com/dh/leetcode/zero/_98_ValidateBinarySearchTree.java)| 二叉树遍历 | Medium	|
+| √ |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) |验证二叉搜索树| [java](src/main/java/com/dh/leetcode/zero/_98_ValidateBinarySearchTree.java)| 二叉树遍历 | Medium	|
 
 
 
@@ -36,10 +38,10 @@
 
 |   状态 |   序号  |   标题  |   描述 |    语言   |    解法 |   难度  |
 |--------|--------|--------|--------|----------|---------|--------|
-| √ |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) |-| [java](src/main/java/com/dh/leetcode/one/_101_SymmetricTree.java)| 数/递归 |		Easy	|
-| √ |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/symmetric-tree/) |-| [java](src/main/java/com/dh/leetcode/one/_102_BinaryTreeLevelOrderTraversal.java)| 队列广度优先 |	Medium |
-| √ |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) |-| [java](src/main/java/com/dh/leetcode/one/_104_MaximumDepthofBinaryTree.java)| 队列深度优先 |	Easy |
-| √ |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii) |-| [java](src/main/java/com/dh/leetcode/one/_107_BinaryTreeLevelOrderTraversalII.java)| 队列广度优先 |	Easy |
+| √ |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | 对称二叉树 | [java](src/main/java/com/dh/leetcode/one/_101_SymmetricTree.java)| 数/递归 |		Easy	|
+| √ |102|[Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal) |二叉树的层次遍历| [java](src/main/java/com/dh/leetcode/one/_102_BinaryTreeLevelOrderTraversal.java)| 队列广度优先 |	Medium |
+| √ |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) |二叉树的最大深度| [java](src/main/java/com/dh/leetcode/one/_104_MaximumDepthofBinaryTree.java)| 队列深度优先 |	Easy |
+| √ |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii) |二叉树的层次遍历 II | [java](src/main/java/com/dh/leetcode/one/_107_BinaryTreeLevelOrderTraversalII.java)| 队列广度优先 |	Easy |
 | - |120|[Triangle](https://leetcode.com/problems/triangle) |三角形最小路径和| [java](src/main/java/com/dh/leetcode/one/_120_Triangle.java)| 动态规划 |	Medium |
 | √ |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) |股票最佳买卖时间1| [java](src/main/java/com/dh/leetcode/one/_121_BestTimetoBuyandSellStock.java)| 迭代 |	Easy |
 | - |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) |股票最佳买卖时间2| [java](src/main/java/com/dh/leetcode/one/)| 动态规划 |	Easy |
@@ -78,8 +80,8 @@
 #### 300~399
 |   状态 |   序号  |   标题  |   描述 |    语言   |    解法 |   难度  |
 |--------|--------|--------|--------|----------|---------|--------|
-| √ |344|[ReverseString](https://leetcode.com/problems/reverse-string)|-|[java](src/main/java/com/dh/leetcode/three/_344_ReverseString.java)|数组		|Easy	|
-| √ |367|[ValidPerfectSquare](https://leetcode.com/problems/valid-perfect-square)|-|[java](src/main/java/com/dh/leetcode/three/_367_ValidPerfectSquare.java)|二分法 | Easy|
+| √ |344|[ReverseString](https://leetcode.com/problems/reverse-string)|反转字符串|[java](src/main/java/com/dh/leetcode/three/_344_ReverseString.java)|数组		|Easy	|
+| √ |367|[ValidPerfectSquare](https://leetcode.com/problems/valid-perfect-square)|有效的完全平方数|[java](src/main/java/com/dh/leetcode/three/_367_ValidPerfectSquare.java)|二分法 | Easy|
 | - |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|不使用运算符加两个数|[java](src/main/java/com/dh/leetcode/three/_371_SumofTwoIntegers.java)|位运算 | Easy|
 
 #### 400~499

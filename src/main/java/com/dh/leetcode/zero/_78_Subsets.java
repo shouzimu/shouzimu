@@ -26,10 +26,7 @@ public class _78_Subsets {
     public List<List<Integer>> subsets(int[] nums) {
         int numLength = nums.length;
         int length = (int) Math.pow(2, numLength);
-        if (numLength == 0) {
-            length = 1;
-        }
-        //直接设置list的size，减少应为扩容带来的性能损失
+        //直接设置list的size，减少因为为扩容带来的性能损失
         List<List<Integer>> res = new ArrayList<>(length);
 
         for (int i = 0; i < length; i++) {
@@ -54,6 +51,9 @@ public class _78_Subsets {
     @Test
     public void testSubSets() {
         subsets(new int[]{});
+        int[] a = {5, 4, 3, 2, 1};
+        System.out.println(a);
     }
+
 
 }

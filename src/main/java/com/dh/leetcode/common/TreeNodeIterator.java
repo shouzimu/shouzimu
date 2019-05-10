@@ -163,30 +163,36 @@ public class TreeNodeIterator {
     }
 
 
+    /**
+     * 构造一个数，下标从0开始，左子节点为2*i+1 右子节点为2*i+2
+     */
     public static TreeNode initTestTree(Integer[] arry) {
         int length = arry.length;
-        TreeNode[] nodes = new TreeNode[arry.length + 1];
+        TreeNode[] nodes = new TreeNode[arry.length];
         for (int i = 0; i < length; i++) {
             if (null == arry[i]) {
-                nodes[i + 1] = null;
+                nodes[i] = null;
             } else {
-                nodes[i + 1] = new TreeNode(arry[i]);
+                nodes[i] = new TreeNode(arry[i]);
             }
         }
 
-        for (int i = 1; i <= length / 2; i++) {
+        for (int i = 0; i <= length / 2; i++) {
             TreeNode node = nodes[i];
             if (null == node) {
                 continue;
             }
-            int left = 2 * i;
-            int rigt = 2 * i + 1;
-            node.left = nodes[left];
-            if (rigt < length + 1) {
-                node.right = nodes[rigt];
+            int left = 2 * i + 1;
+            int right = 2 * i + 2;
+            if (left < length) {
+                node.left = nodes[left];
+            }
+
+            if (right < length) {
+                node.right = nodes[right];
             }
         }
-        return nodes[1];
+        return nodes[0];
 
     }
 

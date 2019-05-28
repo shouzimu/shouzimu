@@ -9,17 +9,23 @@
 | √ |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |无重复字符的最长子串| [java](src/main/java/com/dh/leetcode/zero/_3_LongestSubstring.java)|数组|Medium|
 | - |5|[Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/) |最长回文子串| [java](src/main/java/com/dh/leetcode/zero/_5_LongestPalindromicSubstring.java)|数组|Medium|
 | √ |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) |Z 字形变换| [java](src/main/java/com/dh/leetcode/zero/_6_ZigZagConversion.java)|二维数组|	Medium	|
+| √ |7|[Reverse Integer](https://leetcode-cn.com/problems/reverse-integer/) |整数反转| [java](src/main/java/com/dh/leetcode/zero/_7_ReverseInteger.java)|数组|	Easy	|
 | √ |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman) |整数反转| [java](src/main/java/com/dh/leetcode/zero/_12_IntegerToRoman.java)|字符串|	Medium	|
 | √ |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer) |罗马数字转整数| [java](src/main/java/com/dh/leetcode/zero/_13_RomanToInteger.java)|散列表|	Easy	|
 | √ |15|[3Sum](https://leetcode.com/problems/3sum) | 三数之和 | [java](src/main/java/com/dh/leetcode/zero/_15_3Sum.java)|散列表|	Medium	|
+| √ |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 电话号码的字母组合 | [java](src/main/java/com/dh/leetcode/zero/_17_LetterCombinationsofaPhoneNumber)|回溯法|	Medium	|
 | √ |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) |删除链表的倒数第N个节点 | [java](src/main/java/com/dh/leetcode/zero/_19_RemoveNthNodeFromEndOfList.java)|链表|	Medium	|
 | √ |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |有效的括号| [java](src/main/java/com/dh/leetcode/zero/_20_ValidParentheses.java)|栈/迭代|	Easy	|
 | √ |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) |合并两个有序链表| [java](src/main/java/com/dh/leetcode/zero/_21_MergeTwoSortedLists.java)| 链表 |	Easy	|
 | √ |24|[Swap Nodes in Pairs](https://leetcode.com/problems/remove-element) | 两两交换链表中的节点 | [java](src/main/java/com/dh/leetcode/zero/_24_SwapNodesInPairs.java)| 链表 |	Medium	|
 | √ |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |移除有序数组中的重复元素| [java](src/main/java/com/dh/leetcode/zero/_26_RemoveDuplicatesFromSortedArray.java)| 数组/双指针 |	Easy	|
 | √ |27|[Remove Element](https://leetcode-cn.com/problems/remove-element/) |删除数组中的元素| [java](src/main/java/com/dh/leetcode/zero/_27_RemoveElement.java)| 数组/双指针 |	Easy	|
-| - |34|[Find First and Last Position of Element in Sorted Array]( <https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/>) |查找有序数组中第一和最后一个位置| [java](src/main/java/com/dh/leetcode/zero/_34_FindFirstandLastPositionofElementinSortedArray.java)| 二分法 |	Medium	|
+| - |33|[Search in Rotated Sorted Array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) |搜索旋转排序数组| [java](src/main/java/com/dh/leetcode/zero/_33_SearchinRotatedSortedArray.java)| 二分查找 |	Medium	|
+| - |34|[Find First and Last Position of Element in Sorted Array]( <https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |查找有序数组中第一和最后一个位置| [java](src/main/java/com/dh/leetcode/zero/_34_FindFirstandLastPositionofElementinSortedArray.java)| 二分法 |	Medium	|
 | √ |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku) |有效的数独| [java](src/main/java/com/dh/leetcode/zero/_36_ValidSudoku.java)| 循环/剪枝 |	Medium	|
+| √ |39|[Combination Sum](https://leetcode-cn.com/problems/combination-sum/) |组合总和| [java](src/main/java/com/dh/leetcode/zero/_39_CombinationSum.java)| 回溯法 |	Medium	|
+| √ |39|[Combination Sum II](https://leetcode-cn.com/problems/combination-sum-ii/) |组合总和2| [java](src/main/java/com/dh/leetcode/zero/_40_CombinationSumII.java)| 回溯法 |	Medium	|
+| √ |46|[Permutations](https://leetcode-cn.com/problems/permutations/) |全排列| [java](src/main/java/com/dh/leetcode/zero/_46_Permutations.java)| 回溯法 |	Medium	|
 | √ |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams) | 字母异位词分组 | [java](src/main/java/com/dh/leetcode/zero/_49_GroupAnagrams.java)| 散列表 |	Medium	|
 | √ |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |连续子数组的最大和| [java](src/main/java/com/dh/leetcode/zero/_53_MaximumSubarray.java)| 动态规划 |	Easy	|
 | √ |66|[Plus One](https://leetcode.com/problems/plus-one) |加1| [java](src/main/java/com/dh/leetcode/zero/_66_PlusOne.java)| 大数 |	Easy	|

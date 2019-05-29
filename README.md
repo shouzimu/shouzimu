@@ -21,7 +21,7 @@
 | √ |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |移除有序数组中的重复元素| [java](src/main/java/com/dh/leetcode/zero/_26_RemoveDuplicatesFromSortedArray.java)| 数组/双指针 |	Easy	|
 | √ |27|[Remove Element](https://leetcode-cn.com/problems/remove-element/) |删除数组中的元素| [java](src/main/java/com/dh/leetcode/zero/_27_RemoveElement.java)| 数组/双指针 |	Easy	|
 | - |33|[Search in Rotated Sorted Array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) |搜索旋转排序数组| [java](src/main/java/com/dh/leetcode/zero/_33_SearchinRotatedSortedArray.java)| 二分查找 |	Medium	|
-| - |34|[Find First and Last Position of Element in Sorted Array]( <https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |查找有序数组中第一和最后一个位置| [java](src/main/java/com/dh/leetcode/zero/_34_FindFirstandLastPositionofElementinSortedArray.java)| 二分法 |	Medium	|
+| - |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |查找有序数组中第一和最后一个位置| [java](src/main/java/com/dh/leetcode/zero/_34_FindFirstandLastPositionofElementinSortedArray.java)| 二分法 |	Medium	|
 | √ |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku) |有效的数独| [java](src/main/java/com/dh/leetcode/zero/_36_ValidSudoku.java)| 循环/剪枝 |	Medium	|
 | √ |39|[Combination Sum](https://leetcode-cn.com/problems/combination-sum/) |组合总和| [java](src/main/java/com/dh/leetcode/zero/_39_CombinationSum.java)| 回溯法 |	Medium	|
 | √ |39|[Combination Sum II](https://leetcode-cn.com/problems/combination-sum-ii/) |组合总和2| [java](src/main/java/com/dh/leetcode/zero/_40_CombinationSumII.java)| 回溯法 |	Medium	|

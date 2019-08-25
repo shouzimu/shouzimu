@@ -28,13 +28,14 @@
 | √ |46|[Permutations](https://leetcode-cn.com/problems/permutations/) |全排列| [java](src/main/java/com/dh/leetcode/zero/_46_Permutations.java)| 回溯法 |	Medium	|
 | √ |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams) | 字母异位词分组 | [java](src/main/java/com/dh/leetcode/zero/_49_GroupAnagrams.java)| 散列表 |	Medium	|
 | √ |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |连续子数组的最大和| [java](src/main/java/com/dh/leetcode/zero/_53_MaximumSubarray.java)| 动态规划 |	Easy	|
+| √ |58|[Length of Last Word](https://leetcode-cn.com/problems/length-of-last-word/) |最后一个单词的长度| [java](src/main/java/com/dh/leetcode/zero/_58_LengthofLastWord.java)| 遍历 |	Easy	|
 | √ |66|[Plus One](https://leetcode.com/problems/plus-one) |加1| [java](src/main/java/com/dh/leetcode/zero/_66_PlusOne.java)| 大数 |	Easy	|
 | √ |67|[Add Binary](https://leetcode.com/problems/add-binary) | 二进制求和| [java](src/main/java/com/dh/leetcode/zero/_67_AddBinary.java)| 二进制 |	Easy	|
 | √ |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx) |x的平方根| [java](src/main/java/com/dh/leetcode/zero/_69_SqrtX.java)| 二分法 |	Easy	|
 | √ |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs) |爬楼梯| [java](src/main/java/com/dh/leetcode/zero/_70_ClimbingStairs.java)| 递归/斐波那契 |	Easy	|
 | √ |75|[Sort Colors](https://leetcode.com/problems/sort-colors/) |红白蓝排序| [java](src/main/java/com/dh/leetcode/zero/_75_SortColors.java)| 排序/双指针 |	Medium	|
 | √ |78|[Subsets](https://leetcode.com/problems/subsets/) |数组的子集合| [java](src/main/java/com/dh/leetcode/zero/_78_Subsets.java)| 位运算 |	Medium	|
-| - |88|[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/) |合并两个有序数组| [java](src/main/java/com/dh/leetcode/zero/_78_Subsets.java)| 位运算 |	Medium	|
+| - |88|[Merge Sorted Array](https://leetcode-cn.com/problems/merge-sorted-array/) |合并两个有序数组| [java](src/main/java/com/dh/leetcode/zero/_88_MergeSortedArray.java)| native方法 |	Medium	|
 | √ |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) |二叉树中序非递归输出| [java](src/main/java/com/dh/leetcode/zero/_94_BinaryTreeInorderTraversal.java)| 栈/迭代 |	Medium	|
 | √ |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) |验证二叉搜索树| [java](src/main/java/com/dh/leetcode/zero/_98_ValidateBinarySearchTree.java)| 二叉树遍历 | Medium	|
 
